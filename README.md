@@ -13,3 +13,4 @@ Os dados dos sensores serão manipulados pelo Arduino MEGA 2560 R3 e via ESP8266
 ## Diagrama de Classes 
 
 
+![](./figuras/Diagrama.png)
