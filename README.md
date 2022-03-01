@@ -17,3 +17,5 @@ Os dados dos sensores e atuadores serão manipulados pelo Arduino MEGA 2560 R3 e
 
 
 ![](./figuras/interface.png)
+
+## Diagrama de Classes 
