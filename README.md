@@ -8,10 +8,10 @@ Lista de Materiais:
 
 | Dispositivos |  Quantidade |
 | ------------ | ----------- |
-| Higrômetro - YL 69 |  1 |
-|  Mini-bomba d'água |  1 |
-| Arduino MEGA 2560 R3 | 1 |
-| Fonte Arduino | 1 |
+| Higrômetro - YL 69 |   1   |
+|  Mini-bomba d'água |   1   |
+| Arduino MEGA 2560 R3 |  1  |
+| Fonte Arduino |      1     |
 
 Funções:
 
