@@ -10,6 +10,7 @@ Lista de Materiais:
 | ------------ | ----------- |
 | Higrômetro - YL 69 |   1   |
 |  Mini-bomba d'água |   1   |
+| Sensor de Nível d'água | 1 |
 | Arduino MEGA 2560 R3 |  1  |
 | Fonte Arduino |      1     |
 
