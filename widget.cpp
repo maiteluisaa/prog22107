@@ -140,7 +140,7 @@ void Widget::write(){
 
     if(ui->comboBox_2->currentText() == "Automático"){
 
-        if(this->sensor->GetDado() >= this->controlador->GetLimiar()){
+        if(this->sensor->GetDado() <= this->controlador->GetLimiar()){
             this->atuador->SetEstado(1);
 
         }
