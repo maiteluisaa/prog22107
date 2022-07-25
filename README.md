@@ -11,7 +11,7 @@ Lista de Materiais:
 | Higrômetro - YL 69 |   1   |
 |  Relé simulando uma Mini-bomba |   1   |
 | Arduino MEGA 2560 R3 |  1  |
-| Fonte Arduino |      1     |
+| Cabo/Fonte Arduino |      1     |
 
 Funções:
 
@@ -25,6 +25,6 @@ Diagrama de classes do projeto:
 
 ![Diagrama de Classes](https://github.com/maiteluisaa/prog22107/blob/main/figuras/fluxograma.png)
 
-A interface final contém 2 modos, automático e manual. Automático: aciona a mini-bomba conforme o sensor de humidade. Manual: aciona a mini-bomba conforme o sinal enviado pelo usuário final.
+A interface final contém 2 modos de operação, automático e manual. Automático: aciona a mini-bomba conforme o sensor de humidade. Manual: aciona a mini-bomba conforme o sinal enviado pelo usuário final.
 
 ![Interface Final](https://github.com/maiteluisaa/prog22107/blob/main/figuras/UI.png)
