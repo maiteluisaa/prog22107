@@ -9,7 +9,7 @@ Lista de Materiais:
 | Dispositivos |  Quantidade |
 | ------------ | ----------- |
 | Higrômetro - YL 69 |   1   |
-|  Mini-bomba d'água |   1   |
+|  Relé simulando uma Mini-bomba |   1   |
 | Arduino MEGA 2560 R3 |  1  |
 | Fonte Arduino |      1     |
 
@@ -19,6 +19,8 @@ Funções:
 - Controle de acionamento da mini-bomba de água.
 - Configuração de limiar de umidade.
 
-Os dados dos sensores e atuadores serão manipulados pelo Arduino MEGA 2560 R3 e via serial os dados serão enviados para o desktop.
+Os dados dos sensores e atuadores serão manipulados pelo controlador e pela interface, comunicando-se via serial.
 
-!(prog22107/figuras/UI.png)
+![Diagrama de Classes]([https://github.com/maiteluisaa/prog22107/blob/main/figuras/fluxograma.png])
+
+![Interface Final]([https://github.com/maiteluisaa/prog22107/blob/main/figuras/UI.png])
