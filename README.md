@@ -21,6 +21,10 @@ Funções:
 
 Os dados dos sensores e atuadores serão manipulados pelo controlador e pela interface, comunicando-se via serial.
 
+Diagrama de classes do projeto:
+
 ![Diagrama de Classes](https://github.com/maiteluisaa/prog22107/blob/main/figuras/fluxograma.png)
+
+A interface final contém 2 modos, automático e manual. Automático: aciona a mini-bomba conforme o sensor de humidade. Manual: aciona a mini-bomba conforme o sinal enviado pelo usuário final.
 
 ![Interface Final](https://github.com/maiteluisaa/prog22107/blob/main/figuras/UI.png)
