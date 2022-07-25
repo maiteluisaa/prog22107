@@ -21,6 +21,6 @@ Funções:
 
 Os dados dos sensores e atuadores serão manipulados pelo controlador e pela interface, comunicando-se via serial.
 
-![Diagrama de Classes]([https://github.com/maiteluisaa/prog22107/blob/main/figuras/fluxograma.png])
+![Diagrama de Classes](https://github.com/maiteluisaa/prog22107/blob/main/figuras/fluxograma.png)
 
-![Interface Final]([https://github.com/maiteluisaa/prog22107/blob/main/figuras/UI.png])
+![Interface Final](https://github.com/maiteluisaa/prog22107/blob/main/figuras/UI.png)
