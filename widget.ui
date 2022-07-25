@@ -6,17 +6,69 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>390</width>
-    <height>190</height>
+    <width>513</width>
+    <height>198</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Widget</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">#pushButton_connect {
+	background-color: #008;
+	color: #fff;
+	border-radius:10px;
+	width:130px;
+	height:30px;
+	border: 3px sold #fff;
+}
+
+#pushButton_2 {
+	background-color: #008;
+	color: #fff;
+	border-radius:10px;
+	width:130px;
+	height:30px;
+	border: 3px sold #fff;
+}
+
+#pushButton_3 {
+	background-color: #008;
+	color: #fff;
+	border-radius:10px;
+	width:130px;
+	height:30px;
+	border: 3px sold #fff;
+}
+
+#comboBox_2, #comboBox_baud, #comboBox_port {
+	background-color: #005;
+	color: #fff;
+	width:130px;
+	height:30px;
+	border: 3px sold #fff;
+}
+
+#spinBox {
+	background-color: #005;
+	color: #fff;
+	width:130px;
+	height:30px;
+	border: 3px sold #fff;
+}
+
+#Widget {
+	background: #dcdcdc;
+}
+
+
+
+</string>
+  </property>
   <widget class="QPushButton" name="pushButton_connect">
    <property name="geometry">
     <rect>
-     <x>280</x>
+     <x>290</x>
      <y>30</y>
      <width>101</width>
      <height>29</height>
@@ -29,7 +81,7 @@
   <widget class="QComboBox" name="comboBox_port">
    <property name="geometry">
     <rect>
-     <x>160</x>
+     <x>170</x>
      <y>30</y>
      <width>111</width>
      <height>29</height>
@@ -85,9 +137,9 @@
   <widget class="QLabel" name="label_status">
    <property name="geometry">
     <rect>
-     <x>280</x>
+     <x>290</x>
      <y>70</y>
-     <width>101</width>
+     <width>211</width>
      <height>20</height>
     </rect>
    </property>
@@ -126,7 +178,7 @@
   <widget class="QPushButton" name="pushButton_3">
    <property name="geometry">
     <rect>
-     <x>280</x>
+     <x>400</x>
      <y>150</y>
      <width>101</width>
      <height>29</height>
@@ -152,7 +204,7 @@
   <widget class="QComboBox" name="comboBox_baud">
    <property name="geometry">
     <rect>
-     <x>160</x>
+     <x>170</x>
      <y>70</y>
      <width>111</width>
      <height>29</height>
